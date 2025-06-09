@@ -1,0 +1,17 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+For this file you are working with, you will deeply understand it. The full file and its contents
+
+Next up, read into the file and please extract the following things: 
+1. Tools 
+2. guidelines
+3. Any other category you want to create. 
+
+For each category like this, create a new markdown file 
+
+Extract them as code blocks format in markdown and anything else that you wanna directly quote. Quotes will be represneted as code blocks in markdown for our study files.  If you have comments or explanations, write them in a different format. 
+
+Every file other than original needs to be in markdown so I can copy paste into Notion. 
